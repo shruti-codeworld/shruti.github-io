@@ -1,7 +1,7 @@
 * {
   margin:0px;
   padding:0px;
-  background-image: linear-gradient(to bottom right, rgb(165, 56, 192), yellow);
+  background-image: linear-gradient(to bottom right, rgb(177, 90, 192), lavender);
   
   }
 
@@ -13,8 +13,8 @@ p {
   display: block;
   width: 400px;
   margin: 50px auto;
-  font: 30px Monaco,"Courier New","DejaVu Sans Mono","Bitstream Vera Sans Mono",monospace;
-  background-image: linear-gradient(to bottom right, rgb(117, 202, 37), rgb(20, 149, 172));
+  font: 30px monaco,"Courier New","DejaVu Sans Mono","Bitstream Vera Sans Mono",monospace;
+  background-image: linear-gradient(to bottom right, rgb(137, 202, 37), rgb(40, 140, 172));
   border: 3px double rgb(207, 9, 9);
   box-shadow: 12px 8px 6px 5px #777;
 }
